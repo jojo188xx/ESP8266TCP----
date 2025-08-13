@@ -4,10 +4,6 @@
             "path": "."
         }
     ],
-    "settings": {
-        "files.associations": {
-            "esp8266.h": "c"
-        }
-    },
+    "settings": {},
     "extensions": {}
 }
